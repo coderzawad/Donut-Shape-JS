@@ -1,1 +1,1 @@
-asadasdasdasd
+const javascript = "Ur mum"
